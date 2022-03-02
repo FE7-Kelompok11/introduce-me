@@ -1,9 +1,7 @@
 # Materi
 ## Zena
-### Microservice
-...
-### Micro Frontend
-...
+### SE Version Control
+
 # Career Plan
 ## Zena
 ### Fullstack Developer
